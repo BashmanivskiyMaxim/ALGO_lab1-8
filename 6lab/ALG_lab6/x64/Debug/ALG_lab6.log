@@ -1,0 +1,4 @@
+﻿C:\visual st\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ALG_lab6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ALG_lab6.cpp
+C:\Users\madma\source\repos\ALG_lab6\ALG_lab6\ALG_lab6.cpp(73,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ALG_lab6.vcxproj -> C:\Users\madma\source\repos\ALG_lab6\x64\Debug\ShellSORT.exe

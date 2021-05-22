@@ -1,0 +1,3 @@
+﻿  ALG_lab6.cpp
+C:\Users\madma\source\repos\ALG_lab6\ALG_lab6\ALG_lab6.cpp(73,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ALG_lab6.vcxproj -> C:\Users\madma\source\repos\ALG_lab6\Debug\ALG_lab6.exe

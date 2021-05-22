@@ -1,0 +1,6 @@
+﻿  lab3ALG.cpp
+C:\Users\madma\source\repos\lab3ALG\lab3ALG\lab3ALG.cpp(30,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\madma\source\repos\lab3ALG\lab3ALG\lab3ALG.cpp(39,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\madma\source\repos\lab3ALG\lab3ALG\lab3ALG.cpp(48,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\madma\source\repos\lab3ALG\lab3ALG\lab3ALG.cpp(57,10): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+  lab3ALG.vcxproj -> C:\Users\madma\source\repos\lab3ALG\Debug\lab3ALG.exe

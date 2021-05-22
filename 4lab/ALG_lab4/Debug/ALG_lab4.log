@@ -1,0 +1,6 @@
+﻿  ALG_lab4.cpp
+C:\Users\madma\source\repos\ALG_lab4\ALG_lab4\ALG_lab4.cpp(22,11): warning C4101: tmp3: неиспользованная локальная переменная
+C:\Users\madma\source\repos\ALG_lab4\ALG_lab4\ALG_lab4.cpp(23,6): warning C4101: tmp2: неиспользованная локальная переменная
+  clist.cpp
+  Создание кода...
+  ALG_lab4.vcxproj -> C:\Users\madma\source\repos\ALG_lab4\Debug\ALG_lab4.exe

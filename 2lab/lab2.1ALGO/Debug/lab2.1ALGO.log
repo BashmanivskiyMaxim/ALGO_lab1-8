@@ -1,0 +1,8 @@
+﻿  lab2.1ALGO.cpp
+C:\Users\madma\source\repos\lab2.1ALGO\lab2.1ALGO\lab2.1ALGO.cpp(13,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\madma\source\repos\lab2.1ALGO\lab2.1ALGO\lab2.1ALGO.cpp(16,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\madma\source\repos\lab2.1ALGO\lab2.1ALGO\lab2.1ALGO.cpp(20,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\madma\source\repos\lab2.1ALGO\lab2.1ALGO\lab2.1ALGO.cpp(29,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\madma\source\repos\lab2.1ALGO\lab2.1ALGO\lab2.1ALGO.cpp(42,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\madma\source\repos\lab2.1ALGO\lab2.1ALGO\lab2.1ALGO.cpp(59,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2.1ALGO.vcxproj -> C:\Users\madma\source\repos\lab2.1ALGO\Debug\lab2.1ALGO.exe
